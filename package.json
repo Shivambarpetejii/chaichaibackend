@@ -1,0 +1,19 @@
+{
+  "name": "chaibackend",
+  "version": "1.0.0",
+  "description": "a bacis app to deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node indax.js"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "shivam barpete",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
